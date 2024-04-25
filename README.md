@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-i am bot with feelings
+i am bot
